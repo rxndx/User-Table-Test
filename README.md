@@ -1,0 +1,1 @@
+Test work with Redux Toolkit, React.js and TypeScript for practice.

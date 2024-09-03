@@ -1,0 +1,1 @@
+export const usersHolderUrl = 'https://jsonplaceholder.typicode.com/users'
